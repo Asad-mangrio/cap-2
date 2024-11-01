@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    
+    font-family: "Montserrat", sans-serif;
+
+}
+.line-01{
+    width: 90%;
+}
+.ORDERNOW:hover{
+background-color: rgb(53, 125, 53);
+color: white;
+}
+.head{
+    z-index: 10;
+}
+::placeholder{
+    color: white;
+}
+.food{
+    width: 70%;  
+}
+.box-01{
+    width: 75%;
+    height: 50px;
+}
+.white-bord{
+    position: absolute;
+    top: 0%;
+    left: 22%;
+}
+.show-name{
+    margin-left: 95px;
+}
+.buy{
+    position: absolute;
+    top: 12%;
+    right:10%;
+}
+.icon{
+    position: absolute;
+    top: 138px;
+    width: 9%;
+    height: 8%;
+    right: 85px;
+}
+.Aero{
+    position: absolute;
+    top: 45%;
+    right: 3%;
+    height: 13%;
+}
+.banner-text {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: white;
+}
+
+.done{
+    display: none;
+}
+
+@media (max-width:400px){
+.food{
+    display: none;
+}
+.offer{
+    display: none;
+}
+.item{
+    display: none;
+}
+
+}
+
+
+
+
+   
+   
+  
+   
+    
+   
+      
+   
+       
+            
+
+    
+ 
+    
+   
+
+
+
+
+    
+    
+
+   
+
+   
+   
+
